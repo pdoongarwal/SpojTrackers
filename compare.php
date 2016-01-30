@@ -22,7 +22,7 @@
 		         	<ul class="nav navbar-nav">
 				        <li><a href="index.php">Homepage</a>
 				        <li><a href="tags_final.php">tags</a>
-				        <li><a href="compare.php">Compare</a>
+				        <li><a href="compare.php">Compare</a> 
 				        
 					</ul>
 		      	</div>	
